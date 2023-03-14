@@ -6,3 +6,8 @@
 
 # Unignore all dirs
 !*/
+
+#Ignore trash
+*.o
+*.qmake.stash
+
