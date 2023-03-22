@@ -1,0 +1,5 @@
+Xubuntu
+Arch
+Debian
+RedHat
+Slackware
